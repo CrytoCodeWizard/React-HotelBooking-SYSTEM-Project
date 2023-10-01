@@ -1,16 +1,9 @@
-<!-- social media connecting shield -->
-
-[![Facebook][facebook-shield]][facebook-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![Twitter][twitter-shield]][twitter-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
 
 ![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
 
 # ✨ Beach Resort | Hotel Room Booking System
 
-Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. At this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System Software`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
+Hello 👋, At this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System Software`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
 
 <!-- contents of projects -->
 
@@ -19,14 +12,6 @@ Hello 👋, I'm <strong>Samiur Rahman Mukul</strong>. At this repository i will 
 - `Backend` - Node.js, Express.js & MongoDB Database
 - `Admin Panel` - React.js, Redux.js, Ant Design & Tailwind CSS
 - `Frontend` - Next.js, Redux.js & Ant Design
-
-<!-- my social media links -->
-
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
 
 <!-- shield icon links -->
 
